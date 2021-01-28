@@ -8,7 +8,3 @@ They require only a fraction of the memory needed by traditional statistical
 machine translation (SMT) models. Furthermore, unlike conventional translation
 systems, all parts of the neural translation model are trained jointly
 (end-to-end) to maximize the translation performance.
-
-
-
-
