@@ -1,6 +1,6 @@
 # Machine Translation
 
-Neural machine translation (NMT) is an approach to machine translation that uses
+Neural Machine Translation (NMT) is an approach to machine translation that uses
 an artificial neural network to predict the likelihood of a sequence of words,
 typically modeling entire sentences in a single integrated model.
 
