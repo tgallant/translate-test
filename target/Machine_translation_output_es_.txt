@@ -1,0 +1,1 @@
+Los recuerdos de traducción se utilizan típicamente en combinación con una herramienta de traducción asistida por computadora dedicada (CAT), programa de procesamiento de palabras, sistemas de gestión de terminología, diccionario multilingüe o incluso salida de traducción automática en bruto.
