@@ -1,1 +1,0 @@
-Translation memories are typically used in conjunction with a dedicated computer assisted translation (CAT) tool, word processing program, terminology management systems, multilingual dictionary, or even raw machine translation output. 
