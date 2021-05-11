@@ -1,1 +1,0 @@
-Software programs that use translation memories are sometimes known as translation memory managers (TMM) or translation memory systems (TM systems, not to be confused with a Translation management system (TMS), which is another type of software focused on managing process of translation). 
