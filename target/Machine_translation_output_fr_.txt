@@ -1,0 +1,1 @@
+Les mémoires de traduction sont généralement utilisés en conjonction avec un outil de traduction assistée par ordinateur dédié, un programme de traitement de texte, des systèmes de gestion de la terminologie, un dictionnaire multilingue, ou même la sortie de traduction automatique cru.
