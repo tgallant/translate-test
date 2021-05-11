@@ -1,0 +1,1 @@
+Los programas de software que usan recuerdos de traducción se conocen a veces como administradores de memoria de traducción (TMM) o sistemas de memoria de traducción (sistemas TM, no se deben confundir con un sistema de gestión de traducción (TMS), que es otro tipo de software centrado en la gestión de proceso de traducción).
