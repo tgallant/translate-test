@@ -1,0 +1,1 @@
+Les logiciels qui utilisent des mémoires de traduction sont parfois connus comme les gestionnaires de mémoire de traduction (TMM) ou les systèmes de mémoire de traduction (les systèmes TM, à ne pas être confondu avec un système de gestion de la traduction (TMS), qui est un autre type de logiciel concentré sur la gestion du processus de traduction).
