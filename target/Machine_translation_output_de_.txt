@@ -1,0 +1,1 @@
+Translation Memories werden in der Regel in Verbindung mit einem dedizierten Computer assisted Translation (CAT) Tool, word Programm, terminology management systems, mehrsprachige Wörterbuch oder sogar rohe Machine Translation Output verwendet.
