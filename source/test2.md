@@ -1,12 +1,7 @@
-# Machine Translation
+# Traduction automatique
 
-Neural machine translation (NMT) is an approach to machine translation that uses
-an artificial neural network to predict the likelihood of a sequence of words,
-typically modeling entire sentences in a single integrated model.
+La traduction automatique neuronale (NMT) est une approche de la traduction automatique qui utilise un réseau neuronal artificiel pour prédire la probabilité d'une séquence de mots, typiquement modeler des phrases entières dans un seul modèle intégré.
 
-They require only a fraction of the memory needed by traditional statistical
-machine translation (SMT) models. Furthermore, unlike conventional translation
-systems, all parts of the neural translation model are trained jointly
-(end-to-end) to maximize the translation performance.
+Ils n'ont besoin qu'une fraction de la mémoire nécessaire par les statistiques traditionnelles modèles de traduction automatique (SMT). En outre, contrairement à la traduction classique les systèmes, toutes les parties du modèle de traduction neuronale sont formés conjointement (de bout en bout) pour maximiser les performances de traduction.
 
-Yet Another sentence.
+Encore une phrase.
