@@ -1,9 +1,8 @@
-=== Main benefits ===
-Translation memory managers are most suitable for translating technical documentation and documents containing specialized vocabularies. Their benefits include:
+=== Principaux avantages ===== Les gestionnaires de mémoire de traduction sont les plus appropriés pour traduire la documentation technique et les documents contenant des vocabulaires spécialisés. Leurs avantages comprennent :
 
-* Ensuring that the document is completely translated (translation memories do not accept empty target segments)
-* Ensuring that the translated documents are consistent, including common definitions, phrasings and terminology. This is important when different translators are working on a single project.
-* Enabling translators to translate documents in a wide variety of formats without having to own the software typically required to process these formats.
-* Accelerating the overall translation process; since translation memories "remember" previously translated material, translators have to translate it only once.
-* Reducing costs of long-term translation projects; for example the text of manuals, warning messages or series of documents needs to be translated only once and can be used several times.
-* For large documentation projects, savings (in time or money) thanks to the use of a TM package may already be apparent even for the first translation of a new project, but normally such savings are only apparent when translating subsequent versions of a project that was translated before using translation memory.
+* Veiller à ce que le document soit complètement traduit (les mémoires de traduction n'acceptent pas les segments cibles vides)
+* Veiller à ce que les documents traduits soient cohérents, y compris des définitions communes, des phrases et des terminologie. C'est important lorsque différents traducteurs travaillent sur un seul projet.
+* Permettre aux traducteurs de traduire des documents dans une grande variété de formats sans avoir à posséder le logiciel habituellement requis pour traiter ces formats.
+* Accélérer le processus global de traduction ; puisque les mémoires de traduction "mémoriser" du matériel précédemment traduit, les traducteurs doivent le traduire une seule fois.
+* Réduire les coûts des projets de traduction à long terme; par exemple, le texte des manuels, des messages d'avertissement ou des séries de documents ne doit être traduit qu'une seule fois et peut être utilisé à plusieurs reprises.
+* Pour les grands projets de documentation, les économies (en temps ou en argent) grâce à l'utilisation d'un paquet TM peuvent déjà être apparentes même pour la première traduction d'un nouveau projet, mais normalement ces économies ne sont apparentes que lors de la traduction des versions ultérieures d'un projet qui a été traduit avant l'utilisation de la mémoire de traduction.
