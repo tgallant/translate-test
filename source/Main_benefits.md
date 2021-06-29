@@ -1,9 +1,8 @@
-=== Main benefits ===
-Translation memory managers are most suitable for translating technical documentation and documents containing specialized vocabularies. Their benefits include:
+=== Hauptleistungen ===* Translation eignen sich am besten für die Übersetzung technischer Dokumentation und Dokumente, die spezielle Vokabulare enthalten. Ihre Vorteile umfassen:
 
-* Ensuring that the document is completely translated (translation memories do not accept empty target segments)
-* Ensuring that the translated documents are consistent, including common definitions, phrasings and terminology. This is important when different translators are working on a single project.
-* Enabling translators to translate documents in a wide variety of formats without having to own the software typically required to process these formats.
-* Accelerating the overall translation process; since translation memories "remember" previously translated material, translators have to translate it only once.
-* Reducing costs of long-term translation projects; for example the text of manuals, warning messages or series of documents needs to be translated only once and can be used several times.
-* For large documentation projects, savings (in time or money) thanks to the use of a TM package may already be apparent even for the first translation of a new project, but normally such savings are only apparent when translating subsequent versions of a project that was translated before using translation memory.
+* Sicherstellung der vollständigen Übersetzung des Dokuments (translation akzeptieren keine leeren Zielsegmente)
+* Sicherstellung der Konsistenz der übersetzten Dokumente, einschließlich gemeinsamer Definitionen, Phrasen und Terminologie. Dies ist wichtig, wenn verschiedene Übersetzer an einem einzigen Projekt arbeiten.
+* Ermöglicht es Übersetzer, Dokumente in einer Vielzahl von Formaten zu übersetzen, ohne die Software in der Regel zu besitzen, die für die Bearbeitung dieser Formate erforderlich ist.
+* Beschleunigung des overall da translation "erinnern" zuvor übersetztes Material haben, müssen Übersetzer es nur einmal übersetzen.
+* Die Kostensenkung von long-term ist beispielsweise der Text von Handbüchern, Warnmeldungen oder series muss nur einmal übersetzt werden und kann mehrmals verwendet werden.
+* Für große Dokumentationsprojekte können dank der Verwendung eines TM bereits Einsparungen (rechtzeitig oder Geld) auch für die erste Übersetzung eines neuen Projektes sichtbar sein, aber normalerweise sind solche Einsparungen nur bei der Übersetzung nachfolgender Versionen eines Projektes erkennbar, das vor der Verwendung des Übersetzungsspeicher übersetzt wurde.
