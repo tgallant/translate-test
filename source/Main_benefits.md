@@ -1,5 +1,4 @@
-=== Main benefits ===
-Translation memory managers are most suitable for translating technical documentation and documents containing specialized vocabularies. Their benefits include:
+foo foo
 
 * Ensuring that the document is completely translated (translation memories do not accept empty target segments)
 * Ensuring that the translated documents are consistent, including common definitions, phrasings and terminology. This is important when different translators are working on a single project.
