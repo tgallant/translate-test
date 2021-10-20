@@ -1,0 +1,8 @@
+=== Beneficios principales === Los gestores de memoria de traducción son más adecuados para traducir documentación técnica y documentos que contienen vocabularios especializados. Sus beneficios incluyen:
+
+* Asegurar que el documento está completamente traducido (memorias de traducción no aceptan segmentos de destino vacíos)
+* Garantizar que los documentos traducidos sean consistentes, incluyendo definiciones comunes, frases y terminología. Esto es importante cuando diferentes traductores están trabajando en un solo proyecto.
+* Habilitar a los traductores para traducir documentos en una amplia variedad de formatos sin tener que ser dueño del software normalmente requerido para procesar estos formatos.
+* Aceleración del proceso de traducción general; dado que las memorias de traducción "recuerdan" material traducido anteriormente, los traductores tienen que traducirlo solo una vez.
+* Reducir los costos de los proyectos de traducción a largo plazo; por ejemplo, el texto de manuales, mensajes de advertencia o series de documentos debe traducirse solo una vez y puede utilizarse varias veces.
+* Para grandes proyectos de documentación, es posible que ya se obtenga ahorros (en tiempo o dinero) gracias al uso de un paquete de MT, incluso para la primera traducción de un nuevo proyecto, pero normalmente esos ahorros solo son evidentes al traducir versiones posteriores de un proyecto que se tradujo antes de usar la memoria de traducción.
