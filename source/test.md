@@ -10,3 +10,5 @@ systems, all parts of the neural translation model are trained jointly
 (end-to-end) to maximize the translation performance.
 
 New Change
+
+Some text that needs translation
