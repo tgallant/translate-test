@@ -1,5 +1,10 @@
-# Maschinenübersetzung
+# Maschinelle Übersetzung
 
-Neural Machine Translation (NMT) ist ein Ansatz zur maschinellen Übersetzung ein künstliches neuronales Netzwerk, um die Wahrscheinlichkeit einer Sequenz von Wörtern vorherzusagen, typischerweise ganze Sätze in einem einzigen integrierten Modell modelliert.
+Neural Machine Translation (NMT) ist ein Ansatz zur maschinellen Übersetzung, bei dem
+ein künstliches neuronales Netz, das die Wahrscheinlichkeit einer Wortfolge vorhersagt;
+Typischerweise Modellierung ganzer Sätze in einem einzigen integrierten Modell.
 
-Sie benötigen nur einen Bruchteil des Speichers, der von traditionellen statistischen benötigt wird Maschinenübersetzung (SMT) Modelle. Darüber hinaus im Gegensatz zu herkömmlichen Übersetzungen Systeme, alle Teile des neuronalen translation gemeinsam ausgebildet (Ende-zu-Ende) zur Maximierung der Übersetzungsleistung.
+Sie benötigen nur einen Bruchteil des Arbeitsspeichers, der für traditionelle Statistiken erforderlich ist.
+Modelle der maschinellen Übersetzung (SMT). Darüber hinaus – im Gegensatz zu herkömmlichen Übersetzungen
+In Systemen werden alle Teile des neuronalen Übersetzungsmodells gemeinsam trainiert
+(End-to-End), um die Übersetzungsleistung zu maximieren.
