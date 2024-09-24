@@ -1,0 +1,13 @@
+=== Haupthindernisse ===
+{{weitere Zitate erforderlich Abschnitt|Datum=April 2018}}
+Zu den Hauptproblemen, die eine breitere Nutzung von Translation Memory Managern verhindern, gehören:
+
+* Das Konzept der "Translation Memories" basiert auf der Prämisse, dass Sätze, die in früheren Übersetzungen verwendet wurden, "recycelt" werden können. Ein Leitprinzip der Übersetzung besteht jedoch darin, dass der Übersetzer die ''Botschaft'' des Textes übersetzen muss und nicht dessen Bestandteile [''[Satz (Linguistik)|Sätze]'".]
+* Translation Memory-Manager lassen sich nicht leicht in bestehende Übersetzungs- oder Lokalisierungsprozesse integrieren. Um die Vorteile der TM-Technologie nutzen zu können, müssen die [[Übersetzungsprozesse]] neu gestaltet werden.
+* Translation-Memory-Manager unterstützen derzeit nicht alle Dokumentationsformate, und es gibt möglicherweise keine Filter, die alle Dateitypen unterstützen.
+* Die Verwendung von Translation Memory-Managern erfordert eine gewisse Lernkurve, und die Programme müssen angepasst werden, um maximale Effektivität zu erzielen.
+* In Fällen, in denen der Übersetzungsprozess ganz oder teilweise ausgelagert oder von freiberuflichen Übersetzern abgewickelt wird, benötigen die externen Mitarbeiter spezielle Tools, um mit den vom Translation Memory-Manager generierten Texten arbeiten zu können.
+* Vollversionen vieler Translation Memory Manager können zwischen [[US-Dollar|US$]500] und 2.500 US-Dollar pro Sitz kosten, was eine beträchtliche Investition darstellen kann (obwohl es auch kostengünstigere Programme gibt). Einige Entwickler produzieren jedoch kostenlose oder kostengünstige Versionen ihrer Tools mit reduzierten Funktionen, die einzelne Übersetzer verwenden können, um an Projekten zu arbeiten, die mit Vollversionen dieser Tools erstellt wurden. (Beachten Sie, dass es Freeware- und SharewareTM-Pakete gibt, aber keines davon hat bisher einen großen Marktanteil erreicht.)
+* Die Kosten für den Import der früheren Übersetzungen des Benutzers in die Translation-Memory-Datenbank, für Schulungen sowie für zusätzliche Produkte können ebenfalls eine erhebliche Investition darstellen.
+* Die Pflege von Translation-Memory-Datenbanken ist in den meisten Fällen immer noch ein manueller Prozess, und wenn diese nicht gepflegt werden, kann dies zu einer erheblichen Verringerung der Benutzerfreundlichkeit und Qualität der TM-Übereinstimmungen führen.
+* Wie bereits erwähnt, sind Translation-Memory-Manager möglicherweise nicht für Text geeignet, bei dem es an internen Wiederholungen mangelt oder der zwischen den Überarbeitungen keine unveränderten Teile enthält. Technische Texte eignen sich im Allgemeinen am besten für Translation Memories, Marketing- oder Kreativtexte hingegen sind weniger geeignet.
